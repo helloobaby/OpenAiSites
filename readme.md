@@ -8,3 +8,5 @@ openai.api_key = "your key"
 
 用key不用翻墙，偶尔自己搭建问问OpenAi
 
+
+![img](https://github.com/helloobaby/OpenAiSites/blob/master/doc/demo.gif)
